@@ -49,18 +49,27 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Ph.D. in Mechanical Engineering
+      university: Michigan Technological University
+      time: 2015 - 2019
       details: |
         Describe your study here.
 
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Master in Biomedical Engineering
+      university: Chongqing University
+      time: 2012 - 2015
+      details: |
+        Describe your study here.
+
+          - Bullet point
+          - Bullet point
+          
+    - degree: Bachelor in Biomedical Engineering
+      university: Tianjin University
+      time: 2008 - 2012
       details: |
         Describe your study here.
 
