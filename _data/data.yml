@@ -134,21 +134,37 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Projects in these following fields: Wireless Sensor Networks; Health Monitoring; Internet of Things; Machine Learning; Python; MATLAB; 
-      Cloud Manufacturing; Triboelectric Energy Harvesting; Signal Acquisition; Wearable Systems and etc.
+      Projects in the following fields: Wireless Sensor Networks; Health Monitoring; Internet of Things; Machine Learning; Python; MATLAB; 
+      Cloud Manufacturing; Triboelectric Energy Harvesting; Signal Acquisition; Wearable Systems; Mechanical System Design and etc.
 
     assignments:
       - title: SEEP Water Tank Project
         link: "https://www.liurg.org/research-AI.html"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "An initial project about applying AI techniques to infrastructure components such as geo-systems."
         details: |
         
-          - D
+          - Build the water tank, located the sensors, and enable the tank functioning properly;
+          - Build the MySQL database to store the sensor data;
+          - Initialize the machine leanring method by proposing a preliminary solution based on the exisiting TensorFlow or PyTorch framework;
+          - Control the system with a Raspberry Pi 3B+ and build the web service based on Flask with Python.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
+      - title: System-on-Cloth: A Cloud Manufacturing Framework for Embroidered Wearable Electronics
+        link: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1751454"
+        tagline: "To establish a cloud-based manufacturing framework for embroidered wearable electronics as an accessible platform technology towards System-on-Cloth."
+        details: |
+        
+          - Build
+          - Develop
+       
+      - title: Understanding and Mitigating Triboelectric Artifacts in Wearable Electronics by Synergic Approaches
+        link: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1710862"
+        tagline: "To understand the fundamental mechanism of triboelectric artifacts in wearable devices and provide synergistic solutions to mitigating the artifacts."
+        details: |
+        
+          - Build
+          - Develop
+        
+        
 publications:
     title: Publications
     intro: |
