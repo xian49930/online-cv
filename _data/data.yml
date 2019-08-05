@@ -32,75 +32,73 @@ sidebar:
         level: Professional
 
     interests:
-      - item: (AI) Deep Learning/Machine Learning/Artificial Intelligence
+      - item: - (AI) Deep Learning/Machine Learning/Artificial Intelligence
         link:
 
-      - item: (Health Monitoring) Smart Health/Human Machine Interface
+      - item: - (Health Monitoring) Smart Health/Human Machine Interface
         link:
 
-      - item: (IoT) Embedded Sensor Systems/Intelligent Systems/Internet-of-Things
+      - item: - (IoT) Embedded Sensor Systems/Intelligent Systems/Internet-of-Things
         link:
         
-      - item: (Hobbies) Badminton/Cooking/Hiking/Photography/Swimming
+      - item: - (Hobbies) Badminton/Cooking/Hiking/Photography/Swimming
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Ph.D. in mechanical engineering, with strong background of electrical engineering and biomedical engineering, with strong communication skills developed from classroom teaching experience and attending academic conferences, and strong writing skills developed from publishing journals and conferences articles.
-
-      Second paragraph if required.
+      Ph.D. in mechanical engineering, with solid background of biomedical engineering and electrical engineering,
+      with strong communication skills developed from classroom teaching experience and attending academic conferences, 
+      and strong writing skills developed from publishing journals articles and conferences papers. 
+      
+      Expertise in mechanical engineering in general and particularly in dynamic and control systems. 
 
 education:
     - degree: Ph.D. in Mechanical Engineering
       university: Michigan Technological University
       time: 2015 - 2019
       details: |
-        Describe your study here.
+        Dissertation: A Hybrid-Powered Wireless System for Multiple Biopotential Monitoring.
 
-          - Bullet point
-          - Bullet point
+          - Design and develop a wireless wearable system for biopotential monitoring.
+          - Develop a triboelectric energy harvester for harvesting energy from human motion.
+          - Investigate the fundamental mechanism of triboelectric artifacts in biopotential monitoring.
 
     - degree: Master in Biomedical Engineering
       university: Chongqing University
       time: 2012 - 2015
       details: |
-        Describe your study here.
-
-          - Bullet point
-          - Bullet point
+          - Design and develop instruments for lung cancer VOCs.
+          - Analyze images data and process images information with MATLAB. 
+          - Design and fabricate data acquisition system for ECG signals.
           
     - degree: Bachelor in Biomedical Engineering
       university: Tianjin University
       time: 2008 - 2012
       details: |
-        Describe your study here.
-
-          - Bullet point
-          - Bullet point
+          - Data analysis and images processing with MATLAB.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Associate
+      time: July 2019 - Present
+      university: Michigan Technological University, Houghton, MI
       details: |
-        Describe your role.
 
-          - Bullet point
-          - Bullet point
+          - Design and conduct the experiments to test the motion artifacts on fabric materials.
+          - Test the machine learning methods (i.e. DNNs) for the personalized stress intervention project.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Teaching Assistant
+      time: Sept. 2017 - Dec. 2018
+      university: Michigan Technological University, Houghton, MI
       details: |
         Describe your role here.
 
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Research Assistant
+      time: Aug. 2015 - Aug. 2017
+      university: Michigan Technological University, Houghton, MI
       details: |
         Describe your role here.
 
