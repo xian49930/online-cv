@@ -32,19 +32,22 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Badminton
+      - item: (AI) Deep Learning/Machine Learning/Artificial Intelligence
         link:
 
-      - item: Swimming
+      - item: (Health Monitoring) Smart Health/Human Machine Interface
         link:
 
-      - item: Cooking
+      - item: (IoT) Embedded Sensor Systems/Intelligent Systems/Internet-of-Things
+        link:
+        
+      - item: (Hobbies) Badminton/Cooking/Hiking/Photography/Swimming
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here.
+      Ph.D. in mechanical engineering, with strong background of electrical engineering and biomedical engineering, with strong communication skills developed from classroom teaching experience and attending academic conferences, and strong writing skills developed from publishing journals and conferences articles.
 
       Second paragraph if required.
 
