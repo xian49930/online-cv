@@ -99,10 +99,19 @@ experiences:
         graded the assignments and team projects; 
         provided the feedback to the instructor team.
 
-          - Mechanical Engineering Practice III for undergraduate students..
+          - Mechanical Engineering Practice III for undergraduate students.
           - Apply the engineering design process by combing engineering science with simulation tools to guide design decisions;
           - Tools: Solidworks, AMESim, MotionView, 3D FEA, Inspire, etc.;
 
+    - role: Co-Instructor 
+      time: June 2017
+      university: Michigan Technological University, Houghton, MI
+      details: |
+        Co-Instructor for Summer Youth Programs in Michigan Tech.
+        
+          - This program is a division of the Center for Pre-College Outreach at Michigan Technological University.
+          - Diversity: Over 1,000 students from diverse background.
+        
     - role: Research Assistant
       time: Aug. 2015 - Aug. 2017
       university: Michigan Technological University, Houghton, MI
@@ -120,7 +129,7 @@ projects:
 
     assignments:
       - title: Velocity
-        link: "#hook"
+        link: "#"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
