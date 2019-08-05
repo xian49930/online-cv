@@ -124,12 +124,12 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section..
+      Projects in these following fields: Wireless Sensor Networks; Health Monitoring; Internet of Things; Machine Learning; Python; MATLAB; 
+      Cloud Manufacturing; Triboelectric Energy Harvesting; Signal Acquisition; Wearable Systems and etc.
 
     assignments:
-      - title: Velocity
-        link: "#"
+      - title: SEEP Water Tank Project
+        link: "https://www.liurg.org/research-AI.html"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
