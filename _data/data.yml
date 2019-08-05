@@ -148,7 +148,7 @@ projects:
           - Initialize the machine leanring method by proposing a preliminary solution based on the exisiting TensorFlow or PyTorch framework;
           - Control the system with a Raspberry Pi 3B+ and build the web service based on Flask with Python.
 
-      - title: System-on-Cloth: A Cloud Manufacturing Framework for Embroidered Wearable Electronics
+      - title: "System-on-Cloth: A Cloud Manufacturing Framework for Embroidered Wearable Electronics"
         link: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1751454"
         tagline: "To establish a cloud-based manufacturing framework for embroidered wearable electronics as an accessible platform technology towards System-on-Cloth."
         details: |
