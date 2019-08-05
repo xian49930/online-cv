@@ -130,7 +130,10 @@ projects:
     assignments:
       - title: SEEP Water Tank Project
         link: "https://www.liurg.org/research-AI.html"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."|
+        
+        - first
+        - second
 
       - title: DevStudio
         link: "#"
