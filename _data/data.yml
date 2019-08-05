@@ -32,17 +32,27 @@ sidebar:
         level: Professional
 
     interests:
-      - item: (AI) Deep Learning/Machine Learning/Artificial Intelligence
-        link:
+      - item: Artificial Intelligence (AI)
+        link: https://en.wikipedia.org/wiki/Artificial_intelligence
+    
+      - item: Machine Learning (ML)
+        link: https://en.wikipedia.org/wiki/Machine_learning
+    
+      - item: Deep Learning (DL)
+        link: https://en.wikipedia.org/wiki/Deep_learning
 
-      - item: (Health Monitoring) Smart Health/Human Machine Interface
-        link:
+      - item: Health Monitoring System
+        link:https://www.sciencedirect.com/topics/engineering/health-monitoring-system
 
-      - item: (IoT) Embedded Sensor Systems/Intelligent Systems/Internet-of-Things
-        link:
+      - item: Human Machine Interface (HMI)
+        link: https://www.sciencedirect.com/topics/engineering/human-machine-interface
         
-      - item: (Hobbies) Badminton/Cooking/Hiking/Photography/Swimming
-        link:
+      - item: Internet of Things (IoT)
+        link: https://en.wikipedia.org/wiki/Internet_of_things
+        
+      - item: Embedded Systems
+        link: https://en.wikipedia.org/wiki/Embedded_system
+      
 
 career-profile:
     title: Career Profile
