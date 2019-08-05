@@ -32,16 +32,16 @@ sidebar:
         level: Professional
 
     interests:
-      - item: **(AI)** Deep Learning/Machine Learning/Artificial Intelligence
+      - item: (AI) Deep Learning/Machine Learning/Artificial Intelligence
         link:
 
-      - item: **(Health Monitoring)** Smart Health/Human Machine Interface
+      - item: (Health Monitoring) Smart Health/Human Machine Interface
         link:
 
-      - item: **(IoT)** Embedded Sensor Systems/Intelligent Systems/Internet-of-Things
+      - item: (IoT) Embedded Sensor Systems/Intelligent Systems/Internet-of-Things
         link:
         
-      - item: **(Hobbies)** Badminton/Cooking/Hiking/Photography/Swimming
+      - item: (Hobbies) Badminton/Cooking/Hiking/Photography/Swimming
         link:
 
 career-profile:
