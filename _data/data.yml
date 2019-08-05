@@ -64,7 +64,7 @@ education:
           - Develop a triboelectric energy harvester for harvesting energy from human motion.
           - Investigate the fundamental mechanism of triboelectric artifacts in biopotential monitoring.
 
-    - degree: Master in Biomedical Engineering
+    - degree: M.S. in Biomedical Engineering
       university: Chongqing University
       time: 2012 - 2015
       details: |
@@ -73,7 +73,7 @@ education:
           - Analyze images data and process images information with MATLAB. 
           - Design and fabricate data acquisition system for ECG signals.
           
-    - degree: Bachelor in Biomedical Engineering
+    - degree: B.S. in Biomedical Engineering
       university: Tianjin University
       time: 2008 - 2012
       details: |
@@ -93,19 +93,24 @@ experiences:
       time: Sept. 2017 - Dec. 2018
       university: Michigan Technological University, Houghton, MI
       details: |
-        Describe your role here.
+        Prepared the guideline of practice sessions; 
+        guided students using the simulation tools; 
+        supervised and led the hand-on sessions; 
+        graded the assignments and team projects; 
+        provided the feedback to the instructor team.
 
-          - Bullet point
-          - Bullet point
+          - Mechanical Engineering Practice III for undergraduate students..
+          - Apply the engineering design process by combing engineering science with simulation tools to guide design decisions;
+          - Tools: Solidworks, AMESim, MotionView, 3D FEA, Inspire, etc.;
 
     - role: Research Assistant
       time: Aug. 2015 - Aug. 2017
       university: Michigan Technological University, Houghton, MI
       details: |
-        Describe your role here.
+        Worked on NSF projects related to internet of things, wireless wearable electronics, and cloud manufacturing.
 
-          - Bullet point
-          - Bullet point
+          - Designed and developed a wireless wearable system for biopotential monitoring.
+          - Designed and developed an slider-crank system which equipped function of distance detection, acceleration monitoring, and energy harvesting, for scientific experiments.
 
 projects:
     title: Projects
