@@ -68,6 +68,7 @@ education:
       university: Chongqing University
       time: 2012 - 2015
       details: |
+        
           - Design and develop instruments for lung cancer VOCs.
           - Analyze images data and process images information with MATLAB. 
           - Design and fabricate data acquisition system for ECG signals.
@@ -76,6 +77,7 @@ education:
       university: Tianjin University
       time: 2008 - 2012
       details: |
+      
           - Data analysis and images processing with MATLAB.
 
 experiences:
