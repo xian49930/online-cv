@@ -234,6 +234,17 @@ publications:
         authors: "Xian Li, Ye Sun"
         conference: "IEEE Transactions on Power Electronics, 2019 (under review)"
 
+awards:
+    title: Awards &amp; Proficiency
+    intro: |
+
+    papers:
+      - title: "Dean’s Award for Outstanding Scholarship"
+        link: "https://web.archive.org/web/20190806012039/https://blogs.mtu.edu/engineering/2018/11/27/graduate-school-announces-spring-2019-award-recipients/"
+        about: "Recognizing demonstrated academic or professional qualities that set them apart within their academic program."
+        year: 2019
+
+
 skills:
     title: Skills &amp; Proficiency
 
