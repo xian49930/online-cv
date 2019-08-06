@@ -244,9 +244,34 @@ awards:
     awardslist:
       - title: "Dean’s Award for Outstanding Scholarship, 2019"
         link: "https://web.archive.org/web/20190806012039/https://blogs.mtu.edu/engineering/2018/11/27/graduate-school-announces-spring-2019-award-recipients/"
-        about: "Recognizing demonstrated academic or professional qualities that set them apart within their academic program."
+        about: "Recognizing demonstrated academic or professional qualities that set them apart within their academic program. (< 1%)"
         sponser: "Michigan Technological University"
-
+      
+      - title: "Doctoral Finishing Fellowship Award, 2019"
+        link: "https://blogs.mtu.edu/gradschool/2018/11/20/doctoral-finishing-fellowship-spring-2019-recipient-xian-li/"
+        about: "Recognizing outstanding PhD candidates who are in need of financial support to finish their degrees and are also contributing to the attainment of goals outlined in The Michigan Tech Plan."
+        sponser: "Michigan Technological University"
+        
+      - title: "NSF Student Attendance Scholarship, 2018"
+        link: "https://conferences.computer.org/chase2018/Students.html"
+        about: "Recognizing students who have a strong academic background and shown research interests in the field of connected health, as demonstrated by coursework and/or project experience."
+        sponser: "National Science Foundation (NSF)"
+        
+      - title: "NSF Student Attendance Scholarship, 2017"
+        link: "https://nsf.gov/awardsearch/showAward?AWD_ID=1720822"
+        about: "Recognizing students who have a strong academic background and shown research interests in the field of connected health, as demonstrated by coursework and/or project experience."
+        sponser: "National Science Foundation (NSF)"
+        
+      - title: "Teaching Assistantships (GTA), 2017 & 2018"
+        link: "https://www.mtu.edu/gradschool/financial/assistantships/"
+        about: "Involve working to assist faculty with teaching (GTA) or being fully responsible for teaching a course (GTI)."
+        sponser: "Michigan Technological University"
+        
+      - title: "Research Assistantships (GA), 2015 & 2016 & 2017"
+        link: "https://www.mtu.edu/gradschool/financial/assistantships/"
+        about: "Involve working to support research on a specific externally funded grant or contract (GRA) or an internally funded project (GA)."
+        sponser: "Michigan Technological University"
+        
 
 skills:
     title: Skills &amp; Proficiency
