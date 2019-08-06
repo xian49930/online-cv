@@ -172,7 +172,7 @@ publications:
     intro: |
 
     papers:
-      - title: [1] The Art of Computer Programming
+      - title: "[1] The Art of Computer Programming"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
