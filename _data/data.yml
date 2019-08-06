@@ -172,8 +172,9 @@ publications:
     intro: |
 
     papers:
-      - title: "[1] The Art of Computer Programming"
-        authors: Donald E. Knuth
+      - title: "[1] A Wearable System for Situational Awareness Estimation in Underground Mines"
+        link: "https://ieeexplore.ieee.org/abstract/document/8648671"
+        authors: Xian Li
         conference: Addison-Wesley, 1968
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
