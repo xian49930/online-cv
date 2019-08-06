@@ -223,7 +223,16 @@ publications:
         link: "https://ieeexplore.ieee.org/abstract/document/7516263"
         authors: "Xian Li, Hui Huang, Ye Sun"
         conference: "2016 IEEE 13th International Conference on Wearable and Implantable Body Sensor Networks (BSN)"
+      
+      - title: "[11] A novel device based on a fluorescent cross-responsive sensor array for detecting lung cancer related volatile organic compounds"
+        link: "https://aip.scitation.org/doi/abs/10.1063/1.4907628"
+        authors: "Jin-can Lei, Chang-jun Hou, Dan-qun Huo, Xiao-gang Luo, Ming-ze Bao, Xian Li, Mei Yang, Huan-bao Fa"
+        conference: "Review of Scientific Instruments, 2015"
         
+      - title: "[12] An SSHI Interface for Triboelectric Energy Harvesting"
+        link: 
+        authors: "Xian Li, Ye Sun"
+        conference: "IEEE Transactions on Power Electronics, 2019 (under review)"
 
 skills:
     title: Skills &amp; Proficiency
