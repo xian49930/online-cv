@@ -143,6 +143,7 @@ projects:
         tagline: "An initial project about applying AI techniques to infrastructure components such as geo-systems."
         details: |
         
+        
           - Build the water tank, located the sensors, and enable the tank functioning properly;
           - Build the MySQL database to store the sensor data;
           - Initialize the machine leanring method by proposing a preliminary solution based on the exisiting TensorFlow or PyTorch framework;
@@ -153,6 +154,7 @@ projects:
         tagline: "To establish a cloud-based manufacturing framework for embroidered wearable electronics as an accessible platform technology towards System-on-Cloth."
         details: |
         
+        
           - Design the wearable electrical system for health monitoring;
           - Find solutions to embroider the entile wearable system on the fabric cloth;
           - Develop the cloud manufacturing framework featured online design, ordering and manufacturing. 
@@ -161,6 +163,7 @@ projects:
         link: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1710862"
         tagline: "To understand the fundamental mechanism of triboelectric artifacts in wearable devices and provide synergistic solutions to mitigating the artifacts."
         details: |
+        
         
           - Design and develop a wireless wearable system for biopotential monitoring;
           - Develop a triboelectric energy harvester for harvesting energy from human motion;
@@ -242,6 +245,7 @@ awards:
       - title: "Dean’s Award for Outstanding Scholarship, 2019"
         link: "https://web.archive.org/web/20190806012039/https://blogs.mtu.edu/engineering/2018/11/27/graduate-school-announces-spring-2019-award-recipients/"
         about: "Recognizing demonstrated academic or professional qualities that set them apart within their academic program."
+        sponser: "Michigan Technological University"
 
 
 skills:
