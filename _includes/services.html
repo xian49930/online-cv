@@ -1,0 +1,32 @@
+{% assign services = site.data.data.services %}
+{% if services %}
+<section class="section services-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ services.title }}
+  </h2>
+
+  {% if services.intro %}
+  <div class="intro">
+    {{ services.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for service in services.serviceslist %}
+  <div class="item">
+    
+    <span class="service-title">
+        <font size="3"><a href="{{ service.link }}">{{ service.title }}</a></font>
+    </span>
+    
+    <i><div class="service-about" style="color:lightsteelblue">{{  service.about  }}</div></i>
+    <div class="service-sponser">{{  service.sponser  }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
