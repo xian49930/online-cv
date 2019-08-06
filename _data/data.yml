@@ -172,19 +172,58 @@ publications:
     intro: |
 
     papers:
-      - title: "[1] A Wearable System for Situational Awareness Estimation in Underground Mines"
+      - title: "[1] A wearable button-like system for long-term multiple biopotential monitoring using non-contact electrodes"
+        link: "https://www.sciencedirect.com/science/article/pii/S235264831730079X"
+        authors: "Xian Li, Ye Sun"
+        conference: "Smart Health, 2019"
+      
+      
+      - title: "[2] A Wearable System for Situational Awareness Estimation in Underground Mines"
         link: "https://ieeexplore.ieee.org/abstract/document/8648671"
         authors: "Xian Li, Ye Sun, Zhen Liu, Matthew Portfleet"
         conference: "2018 IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)"
         
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "[3] TriboMotion: A self-powered triboelectric motion sensor in wearable internet of things for human activity recognition and energy harvesting"
+        link: "https://ieeexplore.ieee.org/abstract/document/8320621"
+        authors: "Hui Huang, Xian Li, Si Liu, Shiyan Hu, Ye Sun"
+        conference: "IEEE Internet of Things Journal, 2018"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "[4] WearETE: A scalable wearable e-textile triboelectric energy harvesting system for human motion scavenging"
+        link: "https://www.mdpi.com/1424-8220/17/11/2649"
+        authors: "Xian Li, Ye Sun"
+        conference: "Sensors, 2017"
+      
+      - title: "[5] Design and evaluation of a non-contact wireless biopotential monitoring system with motion artifacts"
+        link: "https://ieeexplore.ieee.org/abstract/document/7897207"
+        authors: "Xian Li, Ye Sun"
+        conference: "2017 IEEE EMBS International Conference on Biomedical & Health Informatics (BHI)"
+        
+      - title: "[6] NCMB-Button: A wearable non-contact system for long-term multiple biopotential monitoring"
+        link: "https://dl.acm.org/citation.cfm?id=3204162&preflayout=flat"
+        authors: "Xian Li, Ye Sun"
+        conference: "2017 IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)"
+      
+      - title: "[7] DriTri: An in-vehicle wireless sensor network platform for daily health monitoring"
+        link: "https://ieeexplore.ieee.org/abstract/document/7808894"
+        authors: "Xian Li, Hui Huang, Ye Sun"
+        conference: "2016 IEEE SENSORS"
+        
+      - title: "[8] TriboWalk: Triboelectric dual functional wireless system for gait monitoring and energy harvesting"
+        link: "https://ieeexplore.ieee.org/abstract/document/7591800"
+        authors: "Xian Li, Hui Huang, Ye Sun"
+        conference: "2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)"
+        
+      - title: "[9] A triboelectric motion sensor in wearable body sensor network for human activity recognition"
+        link: "https://ieeexplore.ieee.org/abstract/document/7591823"
+        authors: "Hui Huang, Xian Li, Ye Sun"
+        conference: "2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)"
+        
+      - title: "[10] Investigation of motion artifacts for biopotential measurement in wearable devices"
+        link: "https://ieeexplore.ieee.org/abstract/document/7516263"
+        authors: "Xian Li, Hui Huang, Ye Sun"
+        conference: "2016 IEEE 13th International Conference on Wearable and Implantable Body Sensor Networks (BSN)"
+        
 
 skills:
     title: Skills &amp; Proficiency
