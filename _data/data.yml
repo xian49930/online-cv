@@ -277,23 +277,47 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
+        
+      - name: C
+        level: 98%
+        
+      - name: C++
+        level: 80%
 
       - name: MATLAB
         level: 98%
 
-      - name: Angular
+      - name: Solidworks
+        level: 98%
+      
+      - name: AutoCAD
+        level: 98%
+        
+      - name: Labview
+        level: 80%
+        
+      - name: Autodesk EAGLE
+        level: 98%
+        
+      - name: FlexPDE
         level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 70%
 
-      - name: Ruby on Rails
+      - name: MongoDB
+        level: 70%
+        
+      - name: PHP
+        level: 70%
+        
+      - name: Git
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Microsoft Office (Word, Excel, PowerPoint, etc.)
+        level: 95%
 
 footer: >
     Thank You for Your Time and Consideration
