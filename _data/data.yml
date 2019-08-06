@@ -153,27 +153,26 @@ projects:
         tagline: "To establish a cloud-based manufacturing framework for embroidered wearable electronics as an accessible platform technology towards System-on-Cloth."
         details: |
         
-          - Build
-          - Develop
+          - Design the wearable electrical system for health monitoring;
+          - Find solutions to embroider the entile wearable system on the fabric cloth;
+          - Develop the cloud manufacturing framework featured online design, ordering and manufacturing. 
        
       - title: Understanding and Mitigating Triboelectric Artifacts in Wearable Electronics by Synergic Approaches
         link: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1710862"
         tagline: "To understand the fundamental mechanism of triboelectric artifacts in wearable devices and provide synergistic solutions to mitigating the artifacts."
         details: |
         
-          - Build
-          - Develop
+          - Design and develop a wireless wearable system for biopotential monitoring;
+          - Develop a triboelectric energy harvester for harvesting energy from human motion;
+          - Investigate the fundamental mechanism of triboelectric artifacts in biopotential monitoring.
         
         
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
+      - title: [1] The Art of Computer Programming
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
