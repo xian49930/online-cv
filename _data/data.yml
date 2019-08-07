@@ -318,9 +318,15 @@ skills:
       - name: Labview
         level: 80%
         
-      - name: "Altair HyperWorks - AMESim/MotionView/3D FEA (i.e. Hydraulics Simulation)"
+      - name: Altair AMESim (i.e. Hydraulics Simulation)
         level: 90%
         
+      - name: Altair MotionView
+        level: 90%
+        
+      - name: Altair 3D FEA
+        level: 90%
+     
       - name: Altair Inspire
         level: 80%
         
