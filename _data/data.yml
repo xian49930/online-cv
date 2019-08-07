@@ -282,8 +282,8 @@ services:
         link: "https://en.wikipedia.org/wiki/Peer_review"
         details: |
         
-          - "IEEE Sensors Journal, 2016 - present"
-          - "IEEE Biomedical and Health Informatics (BHI) and the Body Sensor Networks (BSN) Conference, 2018"
+          - IEEE Sensors Journal *2016 - present*
+          - IEEE Biomedical and Health Informatics (BHI) and the Body Sensor Networks (BSN) Conference *2018*
       
       - title: "Community Service"
         link: "https://www.mtu.edu/ttoday/?issue=20180816#facilitators-sought-for-graduate-school-orientation"
