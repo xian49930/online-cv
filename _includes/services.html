@@ -22,9 +22,13 @@
     <span class="service-title">
         <font size="3"><a href="{{ service.link }}">{{ service.title }}</a></font>
     </span>
+
+      {% if service.details %}
+      <div class="details">
+        {{ service.details | markdownify }}
+      </div><!--//details-->
+      {% endif %} 
     
-    <i><div class="service-about" style="color:lightsteelblue">{{  service.about  }}</div></i>
-    <div class="service-sponser">{{  service.sponser  }}</div>
   </div><!--//item-->
   {% endfor %}
 
