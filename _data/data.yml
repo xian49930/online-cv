@@ -282,14 +282,15 @@ services:
         link: "https://en.wikipedia.org/wiki/Peer_review"
         details: |
         
-          - IEEE Sensors Journal *2016 - present*
-          - IEEE Biomedical and Health Informatics (BHI) and the Body Sensor Networks (BSN) Conference *2018*
+          - IEEE Sensors Journal    *2016 - present*
+          - IEEE Biomedical and Health Informatics (BHI) and the Body Sensor Networks (BSN) Conference    *2018*
+          - GeoShanghai International Conference    *2018*
       
       - title: "Community Service"
         link: "https://www.mtu.edu/ttoday/?issue=20180816#facilitators-sought-for-graduate-school-orientation"
         details: |
         
-          - "Facilitator of Graduate School for the orientation of department of Mechanical Engineering-Engineering Mechanics, 2017" 
+          - Facilitator of Graduate School for the orientation of department of Mechanical Engineering-Engineering Mechanics    *2017* 
 
 
 skills:
@@ -317,6 +318,12 @@ skills:
       - name: Labview
         level: 80%
         
+      - name: "Altair HyperWorks - AMESim/MotionView/3D FEA (i.e. Hydraulics Simulation)"
+        level: 90%
+        
+      - name: Altair Inspire
+        level: 80%
+        
       - name: Autodesk EAGLE
         level: 98%
         
@@ -327,16 +334,25 @@ skills:
         level: 70%
 
       - name: MongoDB
-        level: 70%
+        level: 75%
+        
+      - name: SQL
+        level: 80%
         
       - name: PHP
         level: 70%
         
       - name: Git
         level: 85%
+        
+      - name: Raspberry Pi
+        level: 90%
+      
+      - name: Arduino
+        level: 95%
 
       - name: Microsoft Office (Word, Excel, PowerPoint, etc.)
-        level: 95%
+        level: 99%
 
 footer: >
     Thank You for Your Time and Consideration
