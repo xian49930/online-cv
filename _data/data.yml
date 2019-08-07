@@ -280,15 +280,16 @@ services:
     serviceslist:
       - title: "Peer Reviewer"
         link: "https://en.wikipedia.org/wiki/Peer_review"
-        about: "IEEE Sensors Journal, 2016 - present"
-        about: "IEEE Biomedical and Health Informatics (BHI) and the Body Sensor Networks (BSN) Conference, 2018"
-        sponser: 
+        details: |
+        
+          - "IEEE Sensors Journal, 2016 - present"
+          - "IEEE Biomedical and Health Informatics (BHI) and the Body Sensor Networks (BSN) Conference, 2018"
       
       - title: "Community Service"
         link: "https://www.mtu.edu/ttoday/?issue=20180816#facilitators-sought-for-graduate-school-orientation"
-        about: "Facilitator of Graduate School for the orientation of department of Mechanical Engineering-Engineering Mechanics, 2017"
-        sponser: 
-    
+        details: |
+        
+          - "Facilitator of Graduate School for the orientation of department of Mechanical Engineering-Engineering Mechanics, 2017" 
 
 
 skills:
