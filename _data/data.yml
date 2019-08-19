@@ -149,7 +149,7 @@ projects:
         
           - Build the water tank, located the sensors, and enable the tank functioning properly;
           - Build the MySQL database to store the sensor data;
-          - Initialize the machine leanring method by proposing a preliminary solution based on the exisiting TensorFlow or PyTorch framework;
+          - Initialize the machine learning method by proposing a preliminary solution based on the existing TensorFlow or PyTorch framework;
           - Control the system with a Raspberry Pi 3B+ and build the web service based on Flask with Python.
 
       - title: "System-on-Cloth: A Cloud Manufacturing Framework for Embroidered Wearable Electronics"
@@ -159,7 +159,7 @@ projects:
         
         
           - Design the wearable electrical system for health monitoring;
-          - Find solutions to embroider the entile wearable system on the fabric cloth;
+          - Find solutions to embroider the entire wearable system on the fabric cloth;
           - Develop the cloud manufacturing framework featured online design, ordering and manufacturing. 
        
       - title: Understanding and Mitigating Triboelectric Artifacts in Wearable Electronics by Synergic Approaches
