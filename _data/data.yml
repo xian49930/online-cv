@@ -178,7 +178,7 @@ publications:
     intro: |
 
     papers:
-      - title: "[1] An SSHI Interface for Triboelectric Energy Harvesting"
+      - title: "[1] An SSHI interface for triboelectric energy harvesting"
         link: "https://www.researchgate.net/publication/335144087_An_SSHI_Rectifier_for_Triboelectric_Energy_Harvesting"
         authors: "Xian Li, Ye Sun"
         conference: <strong>IEEE Transactions on Power Electronics</strong>, 2019
@@ -188,7 +188,7 @@ publications:
         authors: "Xian Li, Ye Sun"
         conference: "Smart Health, 2019"
       
-      - title: "[3] A Wearable System for Situational Awareness Estimation in Underground Mines"
+      - title: "[3] A wearable system for situational awareness estimation in underground mines"
         link: "https://ieeexplore.ieee.org/abstract/document/8648671"
         authors: "Xian Li, Ye Sun, Zhen Liu, Matthew Portfleet"
         conference: "2018 IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)"
