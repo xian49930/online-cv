@@ -179,9 +179,9 @@ publications:
 
     papers:
       - title: "[1] An SSHI Interface for Triboelectric Energy Harvesting"
-        link: 
+        link: "https://www.researchgate.net/publication/335144087_An_SSHI_Rectifier_for_Triboelectric_Energy_Harvesting"
         authors: "Xian Li, Ye Sun"
-        conference: "IEEE Transactions on Power Electronics, 2019"
+        conference: <strong>IEEE Transactions on Power Electronics</strong>, 2019
         
       - title: "[2] A wearable button-like system for long-term multiple biopotential monitoring using non-contact electrodes"
         link: "https://www.sciencedirect.com/science/article/pii/S235264831730079X"
