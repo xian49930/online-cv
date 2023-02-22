@@ -64,9 +64,15 @@ career-profile:
       with strong communication skills developed from classroom teaching experience and attending academic conferences, 
       and strong writing skills developed from publishing journals articles and conferences papers. 
       
-      Expertise in mechanical engineering in general and particularly in dynamic and control systems. 
+      Expertise in system development in general and particularly of wireless medical devices, also in dynamic and control systems. 
 
 education:
+    - degree: Postdoc in Computer & Information Science
+      university: University of Pennsylvania
+      time: 2019 - 2022
+      details: |
+          - 
+
     - degree: Ph.D. in Mechanical Engineering
       university: Michigan Technological University
       time: 2015 - 2019
@@ -91,6 +97,7 @@ education:
       time: 2008 - 2012
       details: |
 
+          - Development of medical devices.
           - Data analysis and images processing with MATLAB.
 
 experiences:

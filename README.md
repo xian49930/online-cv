@@ -2,11 +2,13 @@
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
 
-# Online CV
+# Online CV - Xian (Shawn) Li
 
 ## About
 
 This is my online cv which is built to help me finding my next job. It keeps updating once a while. 
+
+What I like about this theme is that its simplicity and ease of use. Once you set up and modify the theme you prefer, all you need to do is keep updating the content in ``_data/data.yml``.
 
 ## Installation
 
