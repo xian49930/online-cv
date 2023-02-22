@@ -32,14 +32,8 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Artificial Intelligence (AI)
-        link: https://en.wikipedia.org/wiki/Artificial_intelligence
-    
-      - item: Machine Learning (ML)
-        link: https://en.wikipedia.org/wiki/Machine_learning
-    
-      - item: Deep Learning (DL)
-        link: https://en.wikipedia.org/wiki/Deep_learning
+      - item: Medical Devices
+        link: https://en.wikipedia.org/wiki/Medical_device
 
       - item: Health Monitoring System
         link: https://www.sciencedirect.com/topics/engineering/health-monitoring-system
@@ -52,7 +46,13 @@ sidebar:
         
       - item: Embedded Systems
         link: https://en.wikipedia.org/wiki/Embedded_system
-        
+
+      - item: Artificial Intelligence (AI)
+        link: https://en.wikipedia.org/wiki/Artificial_intelligence
+    
+      - item: Machine Learning (ML)
+        link: https://en.wikipedia.org/wiki/Machine_learning
+
       - item: Hydraulic Systems
         link: https://en.wikipedia.org/wiki/Hydraulic_drive_system
       
